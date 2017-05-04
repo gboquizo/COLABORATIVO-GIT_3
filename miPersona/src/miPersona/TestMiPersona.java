@@ -34,7 +34,7 @@ import java.time.LocalDate;
  *	-Interfaces que hayas manejado y por qué. --> En persona he usado Serializable, para poder leer y escribir dicho objeto
  * 
  * @author Ponferrada Lopez Javier
- * @version 1.0
+ * @version 2.0
  * 
  * */
 public class TestMiPersona {
